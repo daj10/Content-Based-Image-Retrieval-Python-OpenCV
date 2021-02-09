@@ -380,7 +380,7 @@ plt.show()
 
 
 # # Rechercher une image
-# ###  La recherche etant basé sur le contenu . Comme nous utilisons la meme base de données.  L'image requête sera toujours renvoyée en première position  dans le resultat de la recherche.
+# ###  La recherche etant basée sur le contenu . Comme nous utilisons la meme base de données.  L'image requête sera toujours renvoyée en première position  dans le resultat de la recherche.
 
 # In[23]:
 
